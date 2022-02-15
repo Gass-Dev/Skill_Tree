@@ -1,0 +1,22 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+    background-color: #fff;
+}
+
+# {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+
+@font-face {
+    font-family: "nomfont";
+    src: url('../public/fonts/nomfont')
+}
+
+@import url('https://fonts.googleapis.com/css?family=Material+Icons');
